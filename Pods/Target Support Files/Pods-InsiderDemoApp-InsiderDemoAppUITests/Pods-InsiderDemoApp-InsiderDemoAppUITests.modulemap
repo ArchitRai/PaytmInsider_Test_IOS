@@ -1,0 +1,6 @@
+framework module Pods_InsiderDemoApp_InsiderDemoAppUITests {
+  umbrella header "Pods-InsiderDemoApp-InsiderDemoAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
